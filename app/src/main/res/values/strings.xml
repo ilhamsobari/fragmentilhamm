@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">fragmentilham</string>
+    <string name="action_setting">setting</string>
+    <string name="hellon_blank_fragment">Hello Blank Fragment</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="pencet_tombol">Tekan Tombolnya!</string>
+    <string name="tampil_tombol">Tampilakn Detail</string>
+    <string name="disini_tampil">Disini Kami memiliki detailnya!</string>
+</resources>
